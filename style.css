@@ -1,0 +1,21 @@
+#count {
+  display: block;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+  text-align: center;
+}
+button {
+  border-radius: 10px;
+  border: yellow;
+  background-color: antiquewhite;
+  color: black;
+}
+
+body {
+  margin-top: 18%;
+  background-color: #a9b2ac;
+}
